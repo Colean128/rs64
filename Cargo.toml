@@ -1,0 +1,8 @@
+[package]
+name = "rs64"
+version = "0.2.1"
+authors = ["Zayne64 <zayne64needsto@getbackinthe.kitchen"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.6"
